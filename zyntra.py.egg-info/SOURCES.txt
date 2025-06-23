@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+zyntra/__init__.py
+zyntra/core.py
+zyntra.py.egg-info/PKG-INFO
+zyntra.py.egg-info/SOURCES.txt
+zyntra.py.egg-info/dependency_links.txt
+zyntra.py.egg-info/requires.txt
+zyntra.py.egg-info/top_level.txt
+zyntra/utils/__init__.py
+zyntra/utils/color.py

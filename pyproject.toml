@@ -1,0 +1,17 @@
+[project]
+name = "zyntra.py"
+version = "0.1.0"
+description = "Bot library for Zyntra"
+authors = [{ name = "Demiomad", email = "demiomad@proton.com" }]
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+    "aiohttp>=3.12.13",
+    "python-socketio[asyncio-client,client]>=5.13.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
