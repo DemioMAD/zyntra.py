@@ -1,8 +1,7 @@
 # zyntra.py
 
 > [!warning]
-> This library is in beta, expect weird things to happen.
-> API changes may also not reflect instantly.
+> This library is no longer being updated.
 
 
 An unofficial bot library for making bots in [Zyntra](https://zyntra.gg), written for Python.
